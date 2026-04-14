@@ -1,0 +1,2 @@
+cd vào thư mục TH2
+Nếu không chạy được bằng lệnh npm run dev thì chạy bằng lệnh npm.cmd run dev
